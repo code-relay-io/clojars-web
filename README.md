@@ -1,3 +1,7 @@
+# Task #1
+https://github.com/clojars/clojars-web/issues/767
+
+
 Clojars web interface
 =====================
 
